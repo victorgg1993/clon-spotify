@@ -22,7 +22,7 @@ $ git add .
 $ git commit -m "done"
 $ git push origin master
 ```
-Envía la gh-page de tú repositorio vía slack(canal #ejercicios)
+Envía la gh-page de tu repositorio vía slack(canal #ejercicios)
 
 ## Instrucciones
 
