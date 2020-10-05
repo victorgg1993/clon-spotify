@@ -11,7 +11,7 @@ Se proporcionan todas las imágenes necesarias, incluido un [documento con la co
 ## Requisitos
 
 - Primero haz un _Fork_ de este repositorio
-- Después clona __tú__ repositorio
+- Después clona __tu__ repositorio
 
 ## Entrega
 
